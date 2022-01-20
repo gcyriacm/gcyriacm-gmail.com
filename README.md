@@ -1,12 +1,14 @@
-## George Cyriac
+# George Cyriac
 
-An experienced Banking and Financial Services Professional with a demonstrated history of performance driven results in diverse role, such 
+Email: gcyriacm@gmail.com | Location –Bangalore, India | Phone: (91) 812 370 1211 | https://www.linkedin.com/in/georgecyriacm/
 
-as Analyst in KYC/AML/DUE DILIGENCE and Big data management in a career spanning over 4 + years .
+An experienced Banking and Financial Services Professional with a demonstrated history of performance driven results in diverse role, such as Analyst in KYC/AML/DUE DILIGENCE and Big data management in a career spanning over 4 + years .
 
-**PROFESSIONAL EXPERIENCE**
 
-STATE STREET CORPORATION, Bangalore, India
+
+## PROFESSIONAL EXPERIENCE
+
+**STATE STREET CORPORATION, Bangalore, India**
 
 Associate II June 2020 – Present
 
@@ -32,7 +34,7 @@ Maintain relevant databases and documentation and suggest controls to ensure we 
 
 Provide recommendations to bring about effective controls related to sanctions screening
 
-REFINITIV, Bangalore, India
+**REFINITIV, Bangalore, India**
 
 Content Analyst June 2017 – May 2020
 
@@ -56,41 +58,41 @@ issues and changes.
 
 Monitor the Impact of market movements of the trading instruments with Thomson Reuter’s products.
 
-**ACTIVITIES & ACHIEVEMENTS**
+## ACTIVITIES & ACHIEVEMENTS
 
-Awarded for New work prioritization method.
+_Awarded for New work prioritization method._
 
-Awarded for consecutive months for highest quality and production.
+_Awarded for consecutive months for highest quality and production._
 
-Part of Refinitiv Bangalore Site level Employee Engagement Team.
+_Part of Refinitiv Bangalore Site level Employee Engagement Team._
 
-Awarded for Automation testing.
+_Awarded for Automation testing._
 
-**EDUCATION & CERTIFICATIONS**
+## EDUCATION & CERTIFICATIONS
 
-Master Of Commerce
+**Master Of Commerce**
 
-Kristu Jayanti College
+_Kristu Jayanti College_
 
-07/2015 - 04/2017, Bangalore, India
+_07/2015 - 04/2017, Bangalore, India_
 
-Bachelor of Commerce
+**Bachelor of Commerce**
 
-St. Claret College
+_St. Claret College_
 
-07/2012 - 05/2015, Bangalore, India
+_07/2012 - 05/2015, Bangalore, India_
 
-Diploma in Indian & Foreign Accounting
+**Diploma in Indian & Foreign Accounting**
 
-International Association of Book-keepers – UK
+_International Association of Book-keepers – UK_
 
-Financial Essentials, Budgeting, Project Management
+**Financial Essentials, Budgeting, Project Management**
 
-Harvard Business School (Harvard Manage Mentor) 
+Harvard Business School (Harvard Manage Mentor)
 
-**SKILLS**
+## SKILLS
 
-Microsoft Word, PowerPoint, Excel , Lexis Nexis ,World check One,KYC& AML tools , Database migration ,Organization ,Prioritizing ,Time 
+_Microsoft Word, PowerPoint, Excel , Lexis Nexis ,World check One,KYC& AML tools , Database migration ,Organization ,Prioritizing ,Time_
 
 management. Forward planning and strategic thinking. Communication and motivation. Stakeholder management.You can use the [editor on GitHub](https://github.com/gcyriacm/gcyriacm-gmail.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
