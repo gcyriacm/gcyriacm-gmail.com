@@ -1,6 +1,6 @@
 # George Cyriac
 
-Email: gcyriacm@gmail.com | Location –Bangalore, India | Phone: (91) 812 370 1211 | https://www.linkedin.com/in/georgecyriacm/
+Email: gcyriacm@gmail.com / Location –Bangalore, India / Phone: (91) 812 370 1211 /  https://www.linkedin.com/in/georgecyriacm/
 
 An experienced Banking and Financial Services Professional with a demonstrated history of performance driven results in diverse role, such as Analyst in KYC/AML/DUE DILIGENCE and Big data management in a career spanning over 4 + years .
 
