@@ -92,9 +92,9 @@ Harvard Business School (Harvard Manage Mentor)
 
 ## SKILLS
 
-_Microsoft Word, PowerPoint, Excel , Lexis Nexis ,World check One,KYC& AML tools , Database migration ,Organization ,Prioritizing ,Time_
+_Microsoft Word, PowerPoint, Excel , Lexis Nexis ,World check One,KYC& AML tools , Database migration ,Organization ,Time management , Stakeholders management,planning , Forward and strategic thinking ,Communication and motivation._
 
-management. Forward planning and strategic thinking. Communication and motivation. Stakeholder management.You can use the [editor on GitHub](https://github.com/gcyriacm/gcyriacm-gmail.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/gcyriacm/gcyriacm-gmail.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
